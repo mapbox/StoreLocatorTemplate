@@ -1,0 +1,26 @@
+{
+  "name": "storeFinder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "js/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "browserslist": [
+    "last 3 and_chr versions",
+    "last 3 chrome versions",
+    "last 3 opera versions",
+    "last 3 ios_saf versions",
+    "last 3 safari versions"
+  ],
+  "dependencies": {
+    "algoliasearch": "^4.6.0",
+    "config.js": "^0.1.0",
+    "prismic-dom": "^2.2.4",
+    "prismic-javascript": "^3.0.2",
+    "regenerator-runtime": "^0.13.7"
+  }
+}
