@@ -1,0 +1,2 @@
+# StoreLocatorTemplate
+Store Locator Template
