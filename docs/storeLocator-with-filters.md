@@ -8,7 +8,7 @@
 
 
 
-The Store Locator template is based on our [Store Locator tutorial](https://docs.mapbox.com/help/tutorials/building-a-store-locator/) with the addition of filter options and the ability to use a tileset or [Algolia](https://www.algolia.com/) as the backend for your store data. Use it to create a store or product finder application using a spreadsheet of locations. Customize a few fields in the code to match it to your data fields and make it your own.
+The Store Locator template is based on our [Store Locator tutorial](https://docs.mapbox.com/help/tutorials/building-a-store-locator/) with the addition of filter options and the ability to use a tileset or [Algolia](https://www.algolia.com/) as the backend for your store data.  Customize a few fields in the code to match it to your data fields and make it your own.
 
 
 <img src="StoreLocatorExample.png"
