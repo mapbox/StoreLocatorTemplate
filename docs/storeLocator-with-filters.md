@@ -21,8 +21,8 @@ There are a few resources you'll need to get started:
 
 **Templates:**
 
-* [Sample code](https://github.com/mapbox/)
-* [Sample data spreadsheet](exampleData.csv)
+* [Sample code](https://github.com/mapbox/StoreLocatorTemplate)
+* [Sample data spreadsheet](https://github.com/mapbox/StoreLocatorTemplate/blob/main/docs/exampleData.csv)
 
 **Tools we'll use:**
 
@@ -62,7 +62,7 @@ Each filter that you want to create should have its own column in the spreadshee
 
 ## Copy the template code 
 
-Download the template from the [GitHub repository](https://github.com/mapbox/). Unzip the folder. In the 'storeLocator-template' folder, you will see 3 folders:
+Download the template from the [GitHub repository](https://github.com/mapbox/StoreLocatorTemplate). Unzip the folder. In the 'storeLocator-template' folder, you will see 3 folders:
 
 Docs:
 * config_template.js: This is the file you will be working in.
