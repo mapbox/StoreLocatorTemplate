@@ -1,4 +1,4 @@
-Copyright (c) 2020, Mapbox
+Copyright (c) 2020, Mapbox, Inc
 
 All rights reserved.
 
