@@ -44,6 +44,8 @@ The CSV will need the following:
 
 2. Filterable fields (fields you want to use to filter your data)
 
+Note: An example CSV file with sample data is available in the Docs folder. 
+
 <br>
 
 **Longitude and latitude fields:**
@@ -109,7 +111,7 @@ Note: We recommend using the URL restriction feature on the token to avoid token
 
 ### Tileset backend
 
-Upload your spreadsheet with the store location data to [Mapbox.com](https://studio.mapbox.com/tilesets/) as a new [tileset](https://docs.mapbox.com/studio-manual/reference/tilesets/). Add the tileset URL and [source layer name](https://docs.mapbox.com/help/glossary/source-layer/) to the configuration file.
+Upload your spreadsheet with the store location data to [Mapbox.com](https://studio.mapbox.com/tilesets/) as a new [tileset](https://docs.mapbox.com/studio-manual/reference/tilesets/). Add the tileset URL(example: "mapbox://username.5lsiq3po") and [source layer name](https://docs.mapbox.com/help/glossary/source-layer/) to the configuration file.
 
 ```
     tileset: "tileset URL",
